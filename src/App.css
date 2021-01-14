@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+  
+  body {
+    background-color: #e7e7e7;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .player {
+    width: 240px;
+    height: 180px;
+    margin: 50px;
+    text-align: center;
+    display: inline-block;
+  }
+
+  .weapons-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px
+  }
+  
+  .weapon-btn {
+    background-color: #4CAF50;
+    text-decoration: none;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    outline: none;
+    transition: 0.2s;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 6px;
+    cursor: pointer;
+  }
+
+  .weapon-btn:hover {
+    background-color: #75b977;
+  }
+
+  .player:nth-child(1) {
+    transform: scaleX(-1);
+  }
+
+  .player:nth-child(2) {
+    transform: scaleX(+1);
+  }
+
+  .winner-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .winner {
+    color: #0986af;
+    font-size: 29px;
+    font-weight: bold;
+  }
+
+  .players-wrapper {
+    padding-bottom: 30px;
+  }
+
+  .player {
+    margin-top: 40px;
+  }
+
+  .player-image {
+    height: 240px;
+    width: auto;
+  }
+
+  .start-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+
+  .start-btn {
+    background-color: #0986af;
+    text-decoration: none;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 15px 62px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 22px;
+    margin: 4px 2px;
+    outline: none;
+    transition: 0.2s;
+    cursor: pointer;
+  }
+
+  .start-btn:hover {
+    background-color: #119fce;
+  }
+
+  .you {
+    color: #559b57;
+  }
+
+  .pc {
+    color: #f44336;
+  }
