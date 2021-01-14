@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/rock-paper/static/css/main.58e3a5ab.chunk.css",
+    "main.js": "/rock-paper/static/js/main.91b71aed.chunk.js",
+    "main.js.map": "/rock-paper/static/js/main.91b71aed.chunk.js.map",
+    "runtime-main.js": "/rock-paper/static/js/runtime-main.30524ba7.js",
+    "runtime-main.js.map": "/rock-paper/static/js/runtime-main.30524ba7.js.map",
+    "static/css/2.e985627f.chunk.css": "/rock-paper/static/css/2.e985627f.chunk.css",
+    "static/js/2.002d26c3.chunk.js": "/rock-paper/static/js/2.002d26c3.chunk.js",
+    "static/js/2.002d26c3.chunk.js.map": "/rock-paper/static/js/2.002d26c3.chunk.js.map",
+    "static/js/3.693e787c.chunk.js": "/rock-paper/static/js/3.693e787c.chunk.js",
+    "static/js/3.693e787c.chunk.js.map": "/rock-paper/static/js/3.693e787c.chunk.js.map",
+    "index.html": "/rock-paper/index.html",
+    "static/css/2.e985627f.chunk.css.map": "/rock-paper/static/css/2.e985627f.chunk.css.map",
+    "static/css/main.58e3a5ab.chunk.css.map": "/rock-paper/static/css/main.58e3a5ab.chunk.css.map",
+    "static/js/2.002d26c3.chunk.js.LICENSE.txt": "/rock-paper/static/js/2.002d26c3.chunk.js.LICENSE.txt",
+    "static/media/lizard.09fd9bd4.svg": "/rock-paper/static/media/lizard.09fd9bd4.svg",
+    "static/media/paper.3418783a.svg": "/rock-paper/static/media/paper.3418783a.svg",
+    "static/media/rock.9d5c9111.svg": "/rock-paper/static/media/rock.9d5c9111.svg",
+    "static/media/scissors.308ea6ee.svg": "/rock-paper/static/media/scissors.308ea6ee.svg",
+    "static/media/spock.d882af0a.svg": "/rock-paper/static/media/spock.d882af0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30524ba7.js",
+    "static/css/2.e985627f.chunk.css",
+    "static/js/2.002d26c3.chunk.js",
+    "static/css/main.58e3a5ab.chunk.css",
+    "static/js/main.91b71aed.chunk.js"
+  ]
+}
